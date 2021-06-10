@@ -2,3 +2,8 @@
 	path = alexcape14/l10n-dominicana
 	url = git@github.com:alexcape14/l10n-dominicana.git
 	branch = 13.0
+
+[submodule "l10n-dominicana"]
+	path = l10n-dominicana
+	url = git@github.com:alexcape14/l10n-dominicana.git
+	branch = 13.0-staging-jl
